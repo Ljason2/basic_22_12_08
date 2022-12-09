@@ -14,3 +14,4 @@ fetch('https://jsonplaceholder.typicode.com/todos/120',
     response => response.text()
 
 ).then(result =>{console.log(result)})
+
