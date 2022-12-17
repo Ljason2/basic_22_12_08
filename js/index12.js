@@ -17,3 +17,5 @@ fetch('https://jsonplaceholderascas.typicode.com/posts/1')
     console.log('작업이 마감되었습니다.')
 })
 // 상태코드는 100~500까지 있다. ->-404 
+
+
